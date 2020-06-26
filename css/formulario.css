@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+.fundo{
+    background-color: hsla(51, 78%, 87%, 0.89);
+}
+
+
+.bg-title {
+    background: url('../img/form2.jpg');
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    color:#e91b1b;
+}
+
